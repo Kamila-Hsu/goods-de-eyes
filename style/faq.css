@@ -1,0 +1,24 @@
+@charset "utf-8";
+ 
+.faq{
+    margin-bottom: 80px;
+} 
+.faq h3{
+    font-size: 48px;
+    margin-top: 80px;
+    margin-bottom: 48px;
+    border-left: 7px solid #AA0601;
+}  
+.faq h2{
+    font-size: 20px; 
+} 
+
+.qa{
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.qa p{
+    margin-top: 8px;
+    line-height: 24px;
+}
